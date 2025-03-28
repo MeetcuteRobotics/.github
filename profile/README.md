@@ -11,8 +11,11 @@ We are a group of **students, researchers, and enthusiasts** exploring the **cut
 - ☕ **Run on caffeine** (because great ideas start with great coffee!)  
 
 ## Join Us  
-📺 [YouTube Channel](https://youtube.com/shorts/FS4RZQhdvbw?si=gV1k0XiApzcYAuOD) – See our robots in action!  
+
+📺 [YouTube Channel](https://youtube.com/shorts/FS4RZQhdvbw?si=gV1k0XiApzcYAuOD) – See our robots in action!
+
 💬 [Discord Server](#) – Join the discussion and be part of the movement!
+
 ☕ [Buy me a Coffee](https://www.vut.cz/en/people/stanislav-vechet-18462) at Laboratory of bio-inspired robotics, Institute of Autonomous Systems
 
 Let’s shape the future of robotics, one step at a time—while having a blast (and sipping coffee)! 🚶‍♂️⚡☕  
