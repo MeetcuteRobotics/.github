@@ -13,7 +13,7 @@ We are a group of **students, researchers, and enthusiasts** exploring the **cut
 
 ## Join Us  
 
-📺 [YouTube Channel](https://youtube.com/shorts/FS4RZQhdvbw?si=gV1k0XiApzcYAuOD) – See our robots in action!
+📺 [YouTube Channel](https://youtube.com/playlist?list=PLCrnO1B0KE3rKf2_9nu4y9VyF9zSY7Yt8&si=5LN6mWCUGIe7l07J) – See our robots in action!
 
 💬 [Discord Server](#) – Join the discussion and be part of the movement!
 
