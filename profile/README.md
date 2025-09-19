@@ -1,4 +1,5 @@
 # Meetcute Robotics 🤖✨  
+![Meetcute Banner](./banner.png)
 
 Welcome to **Meetcute Robotics** – where humans and robots meet in perfect harmony! 🌿🤝🤖  
 
